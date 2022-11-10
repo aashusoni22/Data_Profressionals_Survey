@@ -1,7 +1,8 @@
 # Data-Profressionals-Survey-Project
 
-•	**Dataset used**: Real survey data from data professionals from different countries. 
-•	Major Insights found after visualization: Professionals from united states are more satisfied with their work/life balance 6.38% and Salary 5.00% as compared to professionals in India with the work/life balance of 4.79% and salary satisfaction rate of 3.51%. Overall, data professionals preferred Python as their favorite programming language. In real world, to break into data was bit difficult for those living in United states as compared to Canada and other countries. 
+**Dataset used**: Real survey data from data professionals from different countries. 
+
+**Major Insights** found after visualization: Professionals from united states are more satisfied with their work/life balance 6.38% and Salary 5.00% as compared to           professionals in India with the work/life balance of 4.79% and salary satisfaction rate of 3.51%. Overall, data professionals preferred Python as their favorite         programming language. In real world, to break into data was bit difficult for those living in United states as compared to Canada and other countries. 
 
 
 
